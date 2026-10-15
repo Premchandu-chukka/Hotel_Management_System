@@ -45,7 +45,8 @@ The database contains four main tables:
 
 **ER Diagram:** Add your project's ER diagram to the repository and link it here when uploaded.
 
-`![Hotel Room Management System ER Diagram](ER_Diagram.png)`
+<img width="1536" height="1024" alt="Hotel Room Management ER Diagram" src="https://github.com/user-attachments/assets/fc41f11b-20c2-409c-8aeb-6bf91b55237e" />
+
 
 ## ⚙️ SQL Concepts Implemented
 
@@ -104,7 +105,7 @@ The database contains four main tables:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Premchandu-chukka/Hotel_Management_System>
 ```
 
 Navigate to the downloaded project folder.
